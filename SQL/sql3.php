@@ -9,6 +9,7 @@
 		<p>Give me book's number and I give you book's name in my library.</p>
 		Book's number : <input type="text" name="number">
 		<input type="submit" name="submit">
+		<!-- <p>//Is this same with the level 2?</p>-->
 	</form>
 
 <?php
