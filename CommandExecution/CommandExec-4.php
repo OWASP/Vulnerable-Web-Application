@@ -4,9 +4,9 @@
   </head>
   <body bgcolor="#FFFFD2">
     <div style="background-color:#c9c9c9;padding:15px;">
-      <button class="button" type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
-      <button class="button" type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
-      <button class="button" type="button" name="prevButton" onclick="location.href='CommandExec-3.php';">Previous Level</button>
+      <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
+      <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
+      <button type="button" name="prevButton" onclick="location.href='CommandExec-3.php';">Previous Level</button>
     </div>
     <div style="background-color:#FEFE9A;padding:20px;">
       <h1 align="center"></h1>
