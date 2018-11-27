@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-	<title>REFLECTED XSS 3</title>
+	<title>XSS 3</title>
 </head>
 <body>
 <form method="GET" action="" name="form">
