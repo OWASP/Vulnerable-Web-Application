@@ -1,0 +1,22 @@
+lvl1:
+	Local; 
+		hint1: {=.\hint1.php}   
+		hint2: {=.\dont open\hint2\hint2.php}
+		hint3: {=..\hint3\hint3.txt}
+
+lvl2:
+	Local;
+		hint1: {=.\hint1.php}   
+		hint2: {=.\dont open\hint2\hint2.php}
+		hint3: {=C:/xampp/htdocs/FileInclusion/hint3/hint3.txt}
+
+
+	remote;
+		{htTpS://www.google.com} {htTp://www.google.com} 
+		
+
+lvl3:
+	Local; X  
+		
+	Remote;	X
+		
