@@ -9,7 +9,7 @@
       <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
     </div>
     <div style="background-color:#c9c9c9;padding:20px;">
-      <h1 align="center">HELLO</h1>
+      <h1 align="center">I think there is a vuln here!</h1>
     <form align="center" action="CommandExec-2.php" method="$_GET">
       Write Field:<input type="text" name="typeBox" value=""><br>
       <input type="submit">
