@@ -7,7 +7,6 @@
     <div style="background-color:#c9c9c9;padding:15px;">
       <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
       <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
-      <button type="button" name="nextButton" onclick="location.href='CommandExec-2.php';">Next Level</button>
     </div>
     <div style="background-color:#FEFE9A;padding:20px;">
       <h1 align="center">LOGIN</h1>
@@ -24,9 +23,9 @@
     <?php
     if(isset($_GET["username"])){
       echo shell_exec( $_GET["username"]);
-    }
-    if($_GET["username"] == "Admin" && $_GET["password"] == "flag1")
+      if($_GET["username"] == "Admin" && $_GET["password"] == "flag1")
       echo "WELLDONE";
+    }
     ?>
   </div>
   </body>
