@@ -13,7 +13,7 @@
   <div align="center" style="background-color:#c9c9c9;padding:150px;">
 
     <form method="POST">
-      <label style="font-size:24px;font-family:'Georgia'">Create Data Base:</label>
+      <label style="font-size:24px;font-family:'Georgia'">Create Data Base:&ensp;</label>
       <input type="submit" name="submit" value="Enter" style="padding:8px;font-family:'Georgia'"></form>
 
     <form method="POST">
