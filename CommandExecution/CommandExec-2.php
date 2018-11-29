@@ -7,8 +7,6 @@
     <div style="background-color:#c9c9c9;padding:15px;">
       <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
       <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
-      <button type="button" name="nextButton" onclick="location.href='CommandExec-3.php';">Next Level</button>
-      <button type="button" name="prevButton" onclick="location.href='CommandExec-1.php';">Previous Level</button>
     </div>
     <div style="background-color:#FEFE9A;padding:20px;">
       <h1 align="center">HELLO</h1>
@@ -24,9 +22,9 @@
       $substitutions = array('&&' => '',';'  => '', );
       $target = str_replace(array_keys($substitutions),$substitutions,$target);
       echo shell_exec($target);
+      if($_GET["typeBox"] == "flag2")
+        echo "Welldone! You did great job.";
     }
-    if($_GET["typeBox"] == "flag2")
-      echo "Welldone! You did great job.";
      ?>
   </div>
   </body>
