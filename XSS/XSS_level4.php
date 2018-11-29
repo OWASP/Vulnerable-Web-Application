@@ -2,6 +2,7 @@
 <html>
 <head>
     <title>REFLECTED XSS 5</title>
+<link rel="shortcut icon" href="../Resources/hmbct.png" />
 </head>
 <body>
 <form method="GET" action="<?php echo $_SERVER['PHP_SELF']; ?>" name="form">
