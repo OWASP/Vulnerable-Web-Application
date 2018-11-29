@@ -9,7 +9,7 @@
 	<form action="<?php $_SERVER['PHP_SELF']; ?>" method="post" >
 		<p>Give me book's number and I give you book's name in my library.</p>
 		Book's number : <input type="text" name="number">
-		<input type="submit" name="submit">
+		<input type="submit" name="submit" value="Submit">
 		<!-- <p>//Is this same with the level 2?</p>-->
 	</form>
 
