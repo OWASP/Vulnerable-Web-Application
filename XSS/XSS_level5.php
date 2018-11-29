@@ -7,7 +7,7 @@
 <body>
 <form method="GET" action="<?php echo $_SERVER['PHP_SELF']; ?>" name="form">
    <p>Your name:<input type="text" name="username"></p>
-   <input type="submit" name="Gönder" value="Submit">
+   <input type="submit" name="submit" value="Submit">
 </form>
 
 <?php 
