@@ -9,7 +9,7 @@
 	<form action="<?php $_SERVER['PHP_SELF']; ?>" method="post" >
 		<p>John -> Doe</p>
 		First name : <input type="text" name="firstname">
-		<input type="submit" name="submit">
+		<input type="submit" name="submit" value="Submit">
 	</form>
 
 
