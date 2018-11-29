@@ -37,7 +37,7 @@ if (isset($_POST["submit"])) {
    else
    echo 'Connected successfully  </br>';
    create_database($conn);
-   create_tables($conn, "test_db");
+   create_tables($conn, "1ccb8097d0e9ce9f154608be60224c7c");
    mysqli_close($conn);
 }
 if (isset($_POST["submit1"])) {
@@ -55,21 +55,21 @@ if (isset($_POST["submit1"])) {
 
    remove_database($conn);
    create_database($conn);
-   create_tables($conn, "test_db");
+   create_tables($conn, "1ccb8097d0e9ce9f154608be60224c7c");
    mysqli_close($conn);
 }
 
 
 
 function create_database($conn){
-   $sql = 'CREATE Database test_db';
+   $sql = 'CREATE Database 1ccb8097d0e9ce9f154608be60224c7c';
    $retval = mysqli_query( $conn, $sql);
 
    if(! $retval ) {
       die('Could not create database: ' . mysqli_error( $conn));
    }
 
-   echo "Database test_db created successfully </br>";
+   echo "Database 1ccb8097d0e9ce9f154608be60224c7c created successfully </br>";
 }
 
 function create_tables($conn, $db_name){
@@ -233,7 +233,7 @@ function create_tables($conn, $db_name){
 }
 
 function remove_database($conn){
-   $sql = 'DROP DATABASE test_db';
+   $sql = 'DROP DATABASE 1ccb8097d0e9ce9f154608be60224c7c';
    $retval = mysqli_query($conn, $sql);
    if($retval){
    echo "<br>The database deleted successfully.<br>";
