@@ -8,7 +8,7 @@
    <body>
      
       <button type="button" name="homeButton" onclick="location.href='../../homepage.html';">Home Page</button>
-      <button type="button" name="mainButton" onclick="location.href='main.html';">Main Page</button>
+      <button type="button" name="mainButton" onclick="location.href='fileinc.html';">Main Page</button>
       <button type="button" name="nextButton" onclick="location.href='lvl4.php';">Next Level</button>    
       <div align="center"><b><h3>This is Level 3</h3></b></div>
 
