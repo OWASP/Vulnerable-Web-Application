@@ -26,7 +26,7 @@
       echo shell_exec($target);
     }
     if($_GET["typeBox"] == "flag2")
-      echo "HELAL OLSUN KARDŞİİM!";
+      echo "Welldone! You did great job.";
      ?>
   </div>
   </body>
