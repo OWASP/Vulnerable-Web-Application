@@ -9,7 +9,7 @@
       <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
     </div>
     <div style="background-color:#c9c9c9;padding:20px;">
-      <h1 align="center">LOGIN</h1>
+      <h1 align="center">Login as Admin</h1>
     <form align="center" action="CommandExec-1.php" method="$_GET">
       <label>Username:</label><br>
       <input type="text" name="username" value="Admin"><br>
