@@ -5,11 +5,17 @@
 </head>
 <body>
 
+	 <div style="background-color:#c9c9c9;padding:15px;">
+      <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
+      <button type="button" name="mainButton" onclick="location.href='sqlmainpage.html';">Main Page</button>
+    </div>
+    <div align="center">
 	<form action="<?php $_SERVER['PHP_SELF']; ?>" method="get" >
 		<p>Give me book's number and I give you...</p>
 		Book's number : <input type="text" name="number">
-		<input type="submit" name="submit" value="Submit">
+		<input type="submit" name="submit">
 	</form>
+	</div>
 	<!--Admin password is in the secret table. I hope, anyone doesn't see it.-->
 <?php
 	$servername = "localhost";
