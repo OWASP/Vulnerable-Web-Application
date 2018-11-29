@@ -2,6 +2,7 @@
 <html>
 <head>
    <title>XSS 1</title>
+<link rel="shortcut icon" href="../Resources/hmbct.png" />
 </head>
 <body>
    <form method="GET" action="" name="form">
