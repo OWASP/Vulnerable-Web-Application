@@ -6,12 +6,12 @@
 </head>
 <body>
    <form method="GET" action="" name="form">
-   <p>Adınız:<input type="text" name="username"></p>
+   <p>Your name:<input type="text" name="username"></p>
    <input type="submit" name="Gönder">
 </form>
 <?php
 if(isset($_GET["username"]))
 
-	echo($_GET["username"])?>
+	echo("Your name is ".$_GET["username"])?>
 </body>
 </html>
