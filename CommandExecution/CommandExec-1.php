@@ -1,5 +1,6 @@
 <html>
   <head>
+    <link rel="shortcut icon" href="../Resources/hmbct.png" />
     <title>CommandExec-1</title>
   </head>
   <body bgcolor="#FFFFD2">
