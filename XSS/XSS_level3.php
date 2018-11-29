@@ -13,8 +13,9 @@
 <div align="center">
 <form method="GET" action="" name="form">
    <p>Your name:<input type="text" name="username"></p>
-   <input type="submit" name="submit" value="Submit"></div>
+   <input type="submit" name="submit" value="Submit">
 </form>
+	</div>
 <?php 
 if (isset($_GET["username"])) {
 	$user = preg_replace("/<(.*)[S,s](.*)[C,c](.*)[R,r](.*)[I,i](.*)[P,p](.*)[T,t]>/i", "", $_GET["username"]);
