@@ -6,11 +6,18 @@
 </head>
 <body>
 
+	 <div style="background-color:#c9c9c9;padding:15px;">
+      <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
+      <button type="button" name="mainButton" onclick="location.href='sqlmainpage.html';">Main Page</button>
+	</div>
+
+	<div align="center">
 	<form action="<?php $_SERVER['PHP_SELF']; ?>" method="post" >
 		<p>John -> Doe</p>
 		First name : <input type="text" name="firstname">
-		<input type="submit" name="submit" value="Submit">
+		<input type="submit" name="submit">
 	</form>
+	</div>
 
 
 <?php 
