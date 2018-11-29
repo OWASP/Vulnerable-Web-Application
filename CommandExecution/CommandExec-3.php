@@ -9,7 +9,7 @@
       <button type="button" name="mainButton" onclick="location.href='commandexec.html';">Main Page</button>
     </div>
     <div style="background-color:#c9c9c9;padding:20px;">
-      <h1 align="center"></h1>
+      <h1 align="center">Think more!</h1>
     <form align="center" action="CommandExec-3.php" method="$_GET">
       <input type="text" name="typeBox" value=""><br>
       <input type="submit">
