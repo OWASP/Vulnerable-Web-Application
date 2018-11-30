@@ -2,12 +2,19 @@
 <html>
 <body>
 
+<div style="background-color:#c9c9c9;padding:15px;">
+      <button type="button" name="homeButton" onclick="location.href='../homepage.html';">Home Page</button>
+      <button type="button" name="mainButton" onclick="location.href='fileupl.html';">Main Page</button>
+</div>
+
+<div align="center">
 <form action="" method="post" enctype="multipart/form-data">
     Select image -> 
     <input type="file" name="file" id="file">
     <hr>
     <input type="submit" value="Submit" name="submit">
 </form>
+</div>
 <?php
 
 // Check if image file is a actual image or fake image
