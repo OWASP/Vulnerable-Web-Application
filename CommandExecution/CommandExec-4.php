@@ -11,6 +11,7 @@
     <div style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">Browse The Files!</h1>
     <form align="center" action="CommandExec-4.php" method="$_GET">
+      What's it:
       <input type="text" name="typeBox" value=""><br>
       <input type="submit" value="Submit">
     </form>
