@@ -8,7 +8,7 @@ If you want to run this tool, first of all you need to download web server solut
 
 For Windows you need to copy the files into the xampp/htdocs folder.
 
-For Mac Os  you need to install mampp and  copy the files into the mampp/htdocs folder.
+For Mac Os  you need to install mampp and  copy the files into the mamp/htdocs folder.
 https://www.mamp.info/en/downloads/
 
 For Linux after download our files first you need to open apache server and copy the files to /var/www/html
