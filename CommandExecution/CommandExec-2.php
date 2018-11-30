@@ -11,7 +11,7 @@
     <div align="center" style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">I think there is a vuln here!</h1>
     <form align="center" action="CommandExec-2.php" method="$_GET">
-      <label align="center">Write Field:</label>
+      <label align="center">Name:</label>
       <input align="center" type="text" name="typeBox" value=""><br>
       <input align="center" type="submit" value="Submit">
     </form>
