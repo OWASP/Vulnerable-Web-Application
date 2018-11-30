@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>SETUP</title>
-<link rel="shortcut icon" href="../Resources/hmbct.png" />
+<link rel="shortcut icon" href="Resources/hmbct.png" />
 </head>
 <body>
   <link rel="stylesheet" href="Resources/button.css">
