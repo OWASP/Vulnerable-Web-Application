@@ -11,8 +11,8 @@
     <div style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">Think more!</h1>
     <form align="center" action="CommandExec-3.php" method="$_GET">
-      <input type="text" name="typeBox" value=""><br>
-      <input type="submit" value="Submit">
+      <input align="center" type="text" name="typeBox" value=""><br>
+      <input align="center" type="submit" value="Submit">
     </form>
   </div>
   <div style="background-color:#ecf2d0;padding:20px;border-radius:0px 0px 20px 20px" align="center">
