@@ -12,7 +12,7 @@
       <h1 align="center">Think more!</h1>
     <form align="center" action="CommandExec-3.php" method="$_GET">
       <input type="text" name="typeBox" value=""><br>
-      <input type="submit">
+      <input type="submit" value="Submit">
     </form>
   </div>
   <div style="background-color:#ecf2d0;padding:20px;border-radius:0px 0px 20px 20px" align="center">
