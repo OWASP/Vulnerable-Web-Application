@@ -27,21 +27,7 @@
     }
     if(isset($_GET["typeBox"])){
       $target =$_GET["typeBox"];
-      $substitutions = array(
-        '&&'=>'',
-        '& ' => '',
-        '&& ' => '',
-        ';'  => '',
-        '|' => '',
-        '-'  => '',
-        '$'  => '',
-        '('  => '',
-        ')'  => '',
-        '`'  => '',
-        '||' => '',
-        '/' => '',
-        '\\' => '',
-      );
+      $substitutions = array('&&' => '',';'  => '','/' => '','\\' => '' );
       $target = str_replace(array_keys($substitutions),$substitutions,$target);
       echo shell_exec($target);
       if($_GET["typeBox"] == "secret")
