@@ -14,7 +14,7 @@
       <label align="center">Username:</label><br>
       <input align="center" type="text" name="username" value="Admin"><br>
       <label>Password:</label><br>
-      <input align="center" type="text" name="password" value=""><br>
+      <input align="center" type="password" name="password" value=""><br>
     <input align="center" type="submit" value="Submit">
 
     </form>
