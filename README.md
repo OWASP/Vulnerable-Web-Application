@@ -24,5 +24,5 @@ The php.ini file should be  altered. You can find the location of your  php.ini 
 
 <b>Installation</b>
 
-After all these configurations, firstly, open Xampp Control Panel and start Apache,MySQL. Your MySQL credentials have to be default.<b>[username:root <-> password:""]</b> Then open up our setup.php file in the <b>VulnWeb</b> directory. Follow the directions and create database. If you messed up with database, you can reset the database. If database is ready, you can go to homepage and start hacking.
+After all these configurations, firstly, open Xampp Control Panel and start Apache,MySQL. Your MySQL credentials have to be default.<b>[username:root <-> password:""]</b> Then open up our index.php file in the <b>VulnWeb</b> directory. Follow the directions and create database. If you messed up with database, you can reset the database. If database is ready, you can go to homepage and start hacking.
 
