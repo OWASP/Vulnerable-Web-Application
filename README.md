@@ -13,6 +13,7 @@ https://www.mamp.info/en/downloads/
 For linux after download our files first you need to open apache server and copy the files to /var/www/html
 
 <b>Other Configurations:</b>
+
 The php.ini file should be  altered. You can find the location of your  php.ini file under the folder which php is installed.
 * allow_url_include = on - Allows for Remote File Inclusion
 * allow_url_fopen = on - Allows for Remote File Inclusion
