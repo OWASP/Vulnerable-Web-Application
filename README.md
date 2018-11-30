@@ -6,12 +6,12 @@
 
 If you want to run this tool, first of all you need to download web server solution like "xampp"- you can download xampp from https://www.apachefriends.org/tr/download.html. After your installation;
 
-For windows you need to copy the files into the xampp/htdocs folder.
+For Windows you need to copy the files into the xampp/htdocs folder.
 
 For Mac Os  you need to install mampp and  copy the files into the mampp/htdocs folder.
 https://www.mamp.info/en/downloads/
 
-For linux after download our files first you need to open apache server and copy the files to /var/www/html
+For Linux after download our files first you need to open apache server and copy the files to /var/www/html
 
 <b>Other Configurations:</b>
 
