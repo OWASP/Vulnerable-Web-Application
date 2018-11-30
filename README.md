@@ -4,7 +4,7 @@
 
 <h2>Installation Guide</h2>
 
-If you want to run this tool, first of all you need to download web server solution like "xampp"- you can download xampp from https://www.apachefriends.org/tr/download.html. After your intallation;
+If you want to run this tool, first of all you need to download web server solution like "xampp"- you can download xampp from https://www.apachefriends.org/tr/download.html. After your installation;
 For windows you need to copy the files into the xampp/htdocs folder.
 
 For Mac Os  you need to install mampp and  copy the files into the mampp/htdocs folder.
