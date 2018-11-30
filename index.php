@@ -13,11 +13,11 @@
   <div align="center" style="background-color:#c9c9c9;padding:150px;">
 
     <form method="POST">
-      <label style="font-size:24px;font-family:'Georgia'">Create Data Base:&ensp;</label>
+      <label style="font-size:24px;font-family:'Georgia'">Create Database:&ensp;</label>
       <input type="submit" name="submit" value="Enter" style="padding:8px;font-family:'Georgia'"></form>
 
     <form method="POST">
-      <label style="font-size:24px;font-family:'Georgia'">Restore Data Base:</label>
+      <label style="font-size:24px;font-family:'Georgia'">Restore Database:</label>
       <input type="submit" name="submit1" value="Enter" style="padding:8px;font-family:'Georgia'"></form>
   </div>
 
