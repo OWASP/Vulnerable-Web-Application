@@ -11,6 +11,7 @@
     <div style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">Think more!</h1>
     <form align="center" action="CommandExec-3.php" method="$_GET">
+      What's my keyword:
       <input align="center" type="text" name="typeBox" value=""><br>
       <input align="center" type="submit" value="Submit">
     </form>
