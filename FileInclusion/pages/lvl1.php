@@ -6,8 +6,10 @@
    </head>
 
    <body>    
+      <div style="background-color:#c9c9c9;padding:15px;">
       <button type="button" name="homeButton" onclick="location.href='../../homepage.html';">Home Page</button>
       <button type="button" name="mainButton" onclick="location.href='fileinc.html';">Main Page</button>  
+      </div>
       
       <div align="center"><b><h3>This is Level 1</h3></b></div>
       <div align="center">
