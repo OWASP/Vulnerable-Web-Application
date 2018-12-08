@@ -27,7 +27,7 @@ The php.ini file should be  altered. You can find the location of your  php.ini 
 After all these configurations, firstly, open Xampp Control Panel and start Apache,MySQL. Your MySQL credentials have to be default.<b>[username:root <-> password:""]</b> Then open up our index.php file in the <b>Vulnerable Web Application</b> directory. Follow the directions and create database. If you messed up with database, you can reset the database. If database is ready, you can go to homepage and start hacking.
 
 <h2>License</h2>
-  The contents of this repository are licensed under the .[GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
+  The contents of this repository are licensed under the [GNU General Public License v3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
  
  <h2>Version</h2>
   1.0.0
