@@ -1,6 +1,6 @@
 # Vulnerable Web Application
 
-![VulnWeb](https://github.com/hummingbirdscyber/VulnWeb/blob/master/Resources/VulnWeb.png)
+![VulnWeb](https://github.com/hummingbirdscyber/Vulnerable-Web-Application/blob/master/Resources/VulnWeb.png)
 
 <h2>Installation Guide</h2>
 
