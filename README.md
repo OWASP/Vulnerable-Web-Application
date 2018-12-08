@@ -1,4 +1,4 @@
-# Vulnerable Web Application
+# Vulnerable Web Application V1.0
 
 ![VulnWeb](https://github.com/hummingbirdscyber/Vulnerable-Web-Application/blob/master/Resources/VulnWeb.png)
 
