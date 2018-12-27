@@ -2,6 +2,15 @@
 
 ![VulnWeb](https://github.com/hummingbirdscyber/Vulnerable-Web-Application/blob/master/Resources/VulnWeb.png)
 
+<h2>What is Vulnerable-Web-Application</h2>
+
+Vulnerable-Web-Application is a website that is prepared for people who are interested in web penetration and who want to have
+information about this subject or to be working. In fact, the website is quite simple to install and use.
+
+Vulnerable-Web-Application categorically includes Command Execution, File Inclusion, File Upload, SQL and XSS. For database-requiring
+categories, it creates a database under localhost with one button during setup. In case of corrupted or changed databases, you can
+create a database again.
+
 <h2>Installation Guide</h2>
 
 If you want to run this tool, first of all you need to download web server solution like "xampp"- you can download xampp from
