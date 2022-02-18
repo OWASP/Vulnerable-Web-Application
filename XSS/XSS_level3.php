@@ -22,7 +22,5 @@ if (isset($_GET["username"])) {
 	echo "Your name is "."$user";
 }
  ?>
-
-
 </body>
 </html>
