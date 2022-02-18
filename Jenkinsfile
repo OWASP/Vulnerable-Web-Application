@@ -1,11 +1,21 @@
-node {
-  stage('SCM') {
-    checkout scm
-  }
-  stage('SonarQube Analysis') {
-    def scannerHome = tool 'SonarScanner';
-    withSonarQubeEnv() {
-      sh "${scannerHome}/bin/sonar-scanner"
+pipeline {
+     agent any
+     stages{
+          stage('Checkout Code from GitHub Repository'){
+            steps{
+             git 'https://github.com/Shobika/Vulnerable-Web-Application.git'
+            }
+      }
+          stage('SonarQube Analysis') {
+           environment {
+              SCANNER_HOME = tool 'sonarscanner6'
+            }
+            steps {
+              withSonarQubeEnv('sonar6') {
+              sh "${SCANNER_HOME}/bin/sonar-scanner"
+             }
+            }
+           }
+        }
     }
-  }
-}
+
