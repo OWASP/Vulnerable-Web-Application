@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2b8752ac-a037-4377-a6f3-e8a332ed1655" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/vulnerable-web-application.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vulnerable-web-application.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -26,6 +27,9 @@
     </option>
   </component>
   <component name="ProjectId" id="25GMqIf7FCebX8Req49f14PzFL5" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="autoscrollToSource" value="true" />
     <option name="flattenPackages" value="true" />
@@ -36,8 +40,15 @@
     <option name="showVisibilityIcons" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="GenerateAntBuildDialog.backupFiles" value="true" />
+    <property name="GenerateAntBuildDialog.enableUiFormCompile" value="true" />
+    <property name="GenerateAntBuildDialog.forceTargetJdk" value="true" />
+    <property name="GenerateAntBuildDialog.outputFileNameProperty" value="vulnerable-web-application" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="Gherkin" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -267,24 +278,40 @@
       <option name="project" value="LOCAL" />
       <updated>1645552170630</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="New change">
+      <created>1645552821183</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1645552821183</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="New change" />
     <option name="LAST_COMMIT_MESSAGE" value="New change" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1645552170505">
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1645553002844">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552170505" />
+    <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645553002844" />
+    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1645552821058">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552821058" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217137275" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1015@0.23.1792.1015" timestamp="1645211480669" />
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1645552184698">
+    <state x="397" y="199" key="SettingsEditor" timestamp="1645553221314">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552184698" />
+    <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1645553221314" />
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1645552827330">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552827330" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217141605" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1015@0.23.1792.1015" timestamp="1645211492989" />
     <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1645552177069">
