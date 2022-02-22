@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b8752ac-a037-4377-a6f3-e8a332ed1655" name="Default Changelist" comment="" />
+    <list default="true" id="2b8752ac-a037-4377-a6f3-e8a332ed1655" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/composer.json" beforeDir="false" afterPath="$PROJECT_DIR$/composer.json" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -250,7 +253,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645552029033</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="New change">
+      <created>1645552145975</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1645552145975</updated>
+    </task>
+    <task id="LOCAL-00031" summary="New change">
+      <created>1645552170630</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1645552170630</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -258,21 +275,21 @@
     <option name="LAST_COMMIT_MESSAGE" value="New change" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1645552145827">
+    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1645552170505">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552145827" />
+    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552170505" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217137275" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1015@0.23.1792.1015" timestamp="1645211480669" />
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1645552050739">
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1645552184698">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552050739" />
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1645552184698" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217141605" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1015@0.23.1792.1015" timestamp="1645211492989" />
-    <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1645552153570">
+    <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1645552177069">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="533" y="358" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645552153570" />
+    <state x="533" y="358" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645552177069" />
   </component>
 </project>
