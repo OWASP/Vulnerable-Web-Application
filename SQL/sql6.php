@@ -16,7 +16,7 @@
 		<input type="submit" name="submit" value="Submit">
 	</form>
 	</div>
-	<!--Admin password is in the secret table. I hope, anyone doesn't see it.-->
+
 <?php
 	$servername = "localhost";
 	$username = "root";
