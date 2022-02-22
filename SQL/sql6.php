@@ -16,7 +16,7 @@
 		<input type="submit" name="submit" value="Submit">
 	</form>
 	</div>
-	<!--Admin password is in the secret table. I hope, anyone doesn't see it.-->
+
 <?php
 	$servername = "localhost";
 	$username = "root";
@@ -28,7 +28,7 @@
 	// Check connection
 	if ($conn->connect_error) {
 	    die("Connection failed: " . $conn->connect_error);
-	} 
+	}
 	//echo "Connected successfully";
 	$source = "";
 	if(isset($_GET["submit"])){
@@ -44,6 +44,6 @@
 		}
 	}
 
-?> 
+?>
 </body>
 </html>
