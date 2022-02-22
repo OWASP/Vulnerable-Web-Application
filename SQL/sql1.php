@@ -28,6 +28,7 @@
 
 	// Create connection
 	$conn = mysqli_connect($servername,$username,$password,$db);
+		$conn = mysqli_connect($servername,$username,$password,$db);
 
 	// Check connection
 	if (!$conn) {
@@ -37,7 +38,7 @@
 	
 	if(isset($_POST["submit"])){
 		$firstname = $_POST["firstname"];
-		$sql = "SELECT lastname FROM users WHERE firstname='$firstname'";//String
+		$sql = "SELECT username FROM admin WHERE username = '$user_name' AND password = '$pass'";
 		$result = mysqli_query($conn,$sql);
 		
 		if (mysqli_num_rows($result) > 0) {
