@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2b8752ac-a037-4377-a6f3-e8a332ed1655" name="Default Changelist" comment="">
+    <list default="true" id="2b8752ac-a037-4377-a6f3-e8a332ed1655" name="Default Changelist" comment="New change">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -304,7 +304,21 @@
       <option name="project" value="LOCAL" />
       <updated>1645555888504</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="New change">
+      <created>1646073709451</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1646073709451</updated>
+    </task>
+    <task id="LOCAL-00037" summary="New change">
+      <created>1646074069847</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1646074069847</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -317,29 +331,29 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645553002844" />
-    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1645555888346">
+    <state x="464" y="115" key="CommitChangelistDialog2" timestamp="1646074069732">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1645555888346" />
+    <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1646074069732" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217137275" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1015@0.23.1792.1015" timestamp="1645211480669" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1645553221314">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1645553221314" />
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1645555905762">
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2" timestamp="1646074109657">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1645555905762" />
+    <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1646074109657" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217141605" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1015@0.23.1792.1015" timestamp="1645211492989" />
     <state x="122" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1646073660189">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="122" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646073660189" />
-    <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1645552177069">
+    <state x="533" y="358" key="git4idea.merge.GitPullDialog" timestamp="1646074173031">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="533" y="358" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645552177069" />
+    <state x="533" y="358" key="git4idea.merge.GitPullDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646074173031" />
   </component>
 </project>
