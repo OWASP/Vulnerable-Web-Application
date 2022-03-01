@@ -16,19 +16,19 @@
 		<input type="submit" name="submit" value="Submit">
 	</form>
 	</div>
-	<!--Admin password is in the secret table. I hope, anyone doesn't see it.-->
+
 <?php
 	$servername = "localhost";
 	$username = "root";
 	$password = "";
 	$db = "1ccb8097d0e9ce9f154608be60224c7c";
 	// Create connection
-	$conn = new mysqli($servername, $username, $password,$db);
+	//$conn = new mysqli($servername, $username, $password,$db);
 
 	// Check connection
 	if ($conn->connect_error) {
 	    die("Connection failed: " . $conn->connect_error);
-	} 
+	}
 	//echo "Connected successfully";
 	$source = "";
 	if(isset($_GET["submit"])){
@@ -44,6 +44,6 @@
 		}
 	}
 
-?> 
+?>
 </body>
 </html>
