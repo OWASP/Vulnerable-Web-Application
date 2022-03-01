@@ -360,26 +360,26 @@
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="360" y="222" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1645553002844" />
-    <state x="464" y="127" key="CommitChangelistDialog2" timestamp="1646075613140">
+    <state x="464" y="127" key="CommitChangelistDialog2" timestamp="1646075753392">
       <screen x="0" y="23" width="1792" height="1015" />
     </state>
     <state x="464" y="115" key="CommitChangelistDialog2/0.0.1792.1120@0.0.1792.1120" timestamp="1646074069732" />
     <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217137275" />
-    <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1015@0.23.1792.1015" timestamp="1646075613140" />
+    <state x="464" y="127" key="CommitChangelistDialog2/0.23.1792.1015@0.23.1792.1015" timestamp="1646075753392" />
     <state x="397" y="199" key="SettingsEditor" timestamp="1645553221314">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="397" y="199" key="SettingsEditor/0.0.1792.1120@0.0.1792.1120" timestamp="1645553221314" />
-    <state x="496" y="269" key="Vcs.Push.Dialog.v2" timestamp="1646075620092">
+    <state x="496" y="269" key="Vcs.Push.Dialog.v2" timestamp="1646075774591">
       <screen x="0" y="23" width="1792" height="1015" />
     </state>
     <state x="496" y="272" key="Vcs.Push.Dialog.v2/0.0.1792.1120@0.0.1792.1120" timestamp="1646074109657" />
     <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1013@0.23.1792.1013" timestamp="1645217141605" />
-    <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1015@0.23.1792.1015" timestamp="1646075620092" />
-    <state x="122" y="392" key="com.intellij.ide.util.TipDialog" timestamp="1646073660189">
+    <state x="496" y="269" key="Vcs.Push.Dialog.v2/0.23.1792.1015@0.23.1792.1015" timestamp="1646075774591" />
+    <state x="122" y="380" key="com.intellij.ide.util.TipDialog" timestamp="1646161606531">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
-    <state x="122" y="392" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646073660189" />
+    <state x="122" y="380" key="com.intellij.ide.util.TipDialog/0.0.1792.1120@0.0.1792.1120" timestamp="1646161606531" />
     <state x="533" y="347" key="git4idea.merge.GitPullDialog" timestamp="1646075435247">
       <screen x="0" y="23" width="1792" height="1015" />
     </state>
