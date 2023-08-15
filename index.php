@@ -11,6 +11,7 @@
   </div>
   </link>
   <div align="center" style="background-color:#c9c9c9;padding:150px;">
+	  <b>train</b> 
 
     <form method="POST">
       <label style="font-size:24px;font-family:'Georgia'">Create Database:&ensp;</label>
