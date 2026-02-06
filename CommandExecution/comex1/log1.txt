@@ -1,1 +1,1 @@
-password:ufoundmypassword
+# Log file - sensitive content removed
