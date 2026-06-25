@@ -1,0 +1,9 @@
+openapi: 3.0.3
+info:
+  title: Vulnerable Web Application API
+  version: 1.0.0
+  description: REST API documentation for the target application.
+servers:
+  - url: http://127.0.0.1/Vulnerable-Web-Application
+paths: {}
+components: {}

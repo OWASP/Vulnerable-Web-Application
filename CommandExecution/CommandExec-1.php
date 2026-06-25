@@ -10,7 +10,7 @@
     </div>
     <div style="background-color:#c9c9c9;padding:20px;">
       <h1 align="center">Login as Admin</h1>
-    <form align="center" action="CommandExec-1.php" method="$_GET">
+    <form align="center" action="CommandExec-1.php" method="GET">
       <label align="center">Username:</label><br>
       <input align="center" type="text" name="username" value="Admin"><br>
       <label>Password:</label><br>
@@ -22,7 +22,14 @@
   <div style="background-color:#ecf2d0;padding:20px;border-radius:0px 0px 20px 20px" align="center">
     <?php
     if(isset($_GET["username"])){
-      echo shell_exec($_GET["username"]);
+      $username = $_GET["username"];
+      // Whitelist allowed usernames
+      $allowed_usernames = ["Admin", "admin", "user"];
+      if(in_array($username, $allowed_usernames)) {
+        // Use escapeshellarg to prevent command injection
+        $escaped_username = escapeshellarg($username);
+        echo shell_exec("echo " . $escaped_username);
+      }
       if($_GET["username"] == "Admin" && $_GET["password"] == "ufoundmypassword")
         echo "WELLDONE";
     }

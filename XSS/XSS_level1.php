@@ -18,7 +18,10 @@
 	</div>
 <?php
 if(isset($_GET["username"]))
-
-	echo("Your name is ".$_GET["username"])?>
+{
+    $username = htmlspecialchars($_GET["username"], ENT_QUOTES, 'UTF-8');
+    echo("Your name is " . $username);
+}
+?>
 </body>
 </html>
